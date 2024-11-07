@@ -3,10 +3,10 @@
 
 name = "Hextra"
 license = "MIT"
-licenselink = "https://gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs-ui/-/blob/main/LICENSE"
+licenselink = "https://gitlab.com/tffhrtp/tffhrtp-website/docs-website/tffhrtp-docs-ui/-/blob/main/LICENSE"
 description = "Modern, responsive, batteries-included Hugo theme for creating beautiful static websites."
-homepage = "https://gitlab.com/tffhrtp/tffhrtp-website/tffhrtp-docs-ui"
-demosite = "https://imfing.github.io/hextra/"
+homepage = "https://gitlab.com/tffhrtp/tffhrtp-website/docs-website/tffhrtp-docs/"
+demosite = "https://docs.fhrp.org"
 tags = ["Modern", "Elegant", "Blog", "Documentation", "Responsive", "Clean", "Light", "Dark", "Minimal"]
 features = ["Responsive", "Dark Mode", "Search", "Syntax Highlighting", "Multilingual", "Social", "Blog", "RSS", "Customization"]
 min_version = "0.124.0"
